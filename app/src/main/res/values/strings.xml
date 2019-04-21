@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exam 2</string>
+    <string name="date">Date</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="current_balance">Current Balance: %1$s</string>
+    <string name="transactions_history">Transactions History</string>
+    <string name="make_transaction">Make Transaction</string>
+    <string name="view_history">View history</string>
+    <string name="no_data">No Data</string>
+</resources>
